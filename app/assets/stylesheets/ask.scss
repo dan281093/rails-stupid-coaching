@@ -1,0 +1,29 @@
+// Place all the styles related to the ask controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+$gray: #F4F4F4;
+
+body {
+  background: $gray; // Using this variable
+}
+
+h1, h2, p, form {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.titre {
+  margin-top: 100px;
+}
+
+body {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  padding: 100px;
+}
+
+h2 {
+  color: red;
+}
